@@ -1,0 +1,7 @@
+{
+  "name0": "[H]OC[C@@H](O[H])CON([H])C(=O)C1=C(N([H])C2=CC=C(I)C=C2F)C(F)=C(F)C=C1",
+  "name1": "[H]N(OCC1CC1)C(=O)C2=C(N([H])C3=CC=C(I)C=C3Cl)C(F)=C(F)C=",
+  "name2": "C[C@H](CN1C=NC2=C1N=CN=C2N)OCP(O)(=O)OP(O)(=O)OP(O)(O)=O",
+  "name3": "NC1=NC=NC2=C1N=CN2CCOCP(O)(=O)OP(O)(=O)OP(O)(O)=O",
+  "name4": "[H]O[C@@]1(CCCC[C@@H]1CN(C([2H])([2H])[2H])C([2H])([2H])[2H])C2=CC=CC(OC([2H])([2H])[2H])=C2",
+  "name5": "C[C@H](NC1=C(C#N)C(N)=NC(N)=N1)C1=CC2=C(N=C1C1=CC=CC=C1S(C)(=O)=O)C(F)=CC=C2"}
