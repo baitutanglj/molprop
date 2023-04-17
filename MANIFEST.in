@@ -1,0 +1,5 @@
+recursive-include molprop/datasets *
+recursive-include molprop/models *
+recursive-include molprop/tests *
+include README.md
+include environment.yml
